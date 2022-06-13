@@ -6,7 +6,7 @@ Auto Fill feature takes an image of a document, gathers the needed values from t
 ## Made With
   * Python 3
   
-  ###Gui
+  ### Gui
   * tkinter
   * tkcalendar
 
